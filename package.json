@@ -1,6 +1,6 @@
 {
   "name": "lhr-first-npm-pak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lhr-first-npm-pak",
   "main": "src/index.js",
   "scripts": {
